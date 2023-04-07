@@ -6,7 +6,7 @@
 # 課程筆記區
 # 作業連結區
 * [HW1](https://github.com/Lilyqq/PL/tree/main/HW1)
-* [HW2](https://github.com/Lilyqq/PL/blob/main/HW2/HW2.ipynb)
+* [HW2](https://github.com/Lilyqq/PL/tree/main/HW2)
 * HW3
 * HW4
 * HW5
