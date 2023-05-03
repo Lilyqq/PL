@@ -7,7 +7,8 @@
 # 作業連結區
 * [HW1](https://github.com/Lilyqq/PL/tree/main/HW1)
 * [HW2](https://github.com/Lilyqq/PL/tree/main/HW2)
-* HW3
+* [HW3](https://github.com/Lilyqq/PL/tree/main/HW3)
 * HW4
 * HW5
 # 專題連結區
+* [Slide](https://www.canva.com/design/DAFhN0Tphs8/I7KCaiYPiN2fUL2Bt3Q5zg/view?utm_content=DAFhN0Tphs8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
