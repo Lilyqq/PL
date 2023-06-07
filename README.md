@@ -18,3 +18,4 @@
 *  🥷[四代目Dr.P_圖片呈現_程式碼](https://github.com/Lilyqq/PL/blob/main/Dr.P/heho_Info_3.ipynb)
 *  🥷[五代目Dr.P_使用者互動_程式碼](https://github.com/Lilyqq/PL/blob/main/Dr.P/heho_Info_4.ipynb)
 *  🥷[專題投影片](https://www.canva.com/design/DAFkfepAxCo/Guo6-ppdWivyQtuka9pfHA/view?utm_content=DAFkfepAxCo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+*  🥷[專題Demo影片](https://youtu.be/xGXqeOCL0XI)
